@@ -93,74 +93,100 @@ class ISAGenerator():
                 for opcode, cmd in enumerate(self.formats[format]['insns']):
                     self.formats[format]['bitmask'][-1]['value'][cmd] = bin(opcode)[2:].zfill(opcode_length)
 
-    def placeField(self, field):
+    def placeReserved(self, formats):
+
+        for format in formats:
+            res = []
+            for ix, (a1, a2) in enumerate(zip(formats[format]['bitmask'], formats[format]['bitmask'][1:])):
+                if a1['lsb'] - a2['msb'] > 1:
+                    res.append((ix, a1['lsb'], a2['msb']))
+
+            for r in res:
+                formats[format]['bitmask'].insert(r[0] + 1, {
+                    'name': 'RES',
+                    'msb': r[1] - 1,
+                    'lsb': r[2] + 1,
+                    'value': ''
+                })
+
+    def delReserved(self, formats):
+        for format in formats:
+            formats[format]['bitmask'] = [item for item in formats[format]['bitmask'] if item['name'] != 'RES']
+
+    def calcScore(self, formats):
+        self.placeReserved(formats)
+        self.printISA(formats)
+        self.delReserved(formats)
+        return 1
+
+    def placeField(self, field, remain_fields, formats):
+
         self.logger.info('placing field {}'.format(field))
 
         positions = {}
 
-        for format in self.formats:
-            if field in self.formats[format]['operands']:
+        for format in formats:
+            if field in formats[format]['operands']:
 
                 positions[format] = {}
 
                 def place(i, ix, value):
-                    positions[format][i] = {'index': ix, 'valid': value}
+                    positions[format][i] = {'index': ix, 'length': value}
 
                 def checkPlacement(ix, amsb, alsb, bmsb, minlength):
-                    for i in range(amsb, alsb - 1, -1): place(i, ix, False)
+                    for i in range(amsb, alsb - 1, -1): place(i, ix, 0)
 
                     if alsb - bmsb >= minlength:
-                        for i in range(alsb - 1, bmsb + minlength - 1, -1): place(i, ix, True)
-                        for i in range(bmsb + minlength - 1, bmsb - 1, -1): place(i, ix, False)
+                        for i in range(alsb - 1, bmsb + minlength - 1, -1): place(i, ix, i - bmsb)
+                        for i in range(bmsb + minlength - 1, bmsb - 1, -1): place(i, ix, 0)
                     else:
-                        for i in range(alsb, bmsb - 1, -1): place(i, ix, False)
+                        for i in range(alsb, bmsb - 1, -1): place(i, ix, 0)
 
-                for ix, (a1, a2) in enumerate(zip(self.formats[format]['bitmask'], self.formats[format]['bitmask'][1:])):
+                for ix, (a1, a2) in enumerate(zip(formats[format]['bitmask'], formats[format]['bitmask'][1:])):
                     checkPlacement(ix + 1, a1['msb'], a1['lsb'], a2['msb'], self.fields[field]['min'])
 
-                checkPlacement(len(self.formats[format]['bitmask']), self.formats[format]['bitmask'][-1]['msb'],
-                               self.formats[format]['bitmask'][-1]['lsb'], -1, self.fields[field]['min'])
-
-        msb = 0
+                checkPlacement(len(formats[format]['bitmask']), formats[format]['bitmask'][-1]['msb'],
+                               formats[format]['bitmask'][-1]['lsb'], -1, self.fields[field]['min'])
 
         for ix in range(self.length - 1, -1, -1):
-            if all(positions[position][ix]['valid'] == True for position in positions):
+            if all(positions[position][ix]['length'] > 0 for position in positions):
+                length = min(positions[position][ix]['length'] for position in positions)
                 msb = ix
-                break
-
-        for format in positions:
-            ix = positions[format][msb]['index']
-            self.formats[format]['bitmask'].insert(ix, {
-                'name': field,
-                'msb': msb,
-                'lsb': msb - self.fields[field]['min'] + 1,
-                'value': '+'
-            })
-            # if self.fields[field]['min'] == self.fields[field]['max']:
-            #     self.formats[format]['bitmask'][ix]['lsb'] = self.formats[format]['bitmask'][-1]['msb'] - \
-            #                                                  self.fields[field]['min'] + 1
-            # else:
-            #     self.formats[format]['bitmask'][ix]['lsb'] = self.formats[format]['bitmask'][-1]['msb'] - \
-            #                                                  self.fields[field]['min'] + 1
+                for l in range(self.fields[field]['min'], self.fields[field]['max'] + 1):
+                    if l <= length:
+                        for format in positions:
+                            ix = positions[format][msb]['index']
+                            formats[format]['bitmask'].insert(ix, {
+                                'name': field,
+                                'msb': msb,
+                                'lsb': msb - l + 1,
+                                'value': '+'
+                            })
+                        if len(remain_fields):
+                            self.placeField(remain_fields[0][0], remain_fields[1:], formats)
+                        else:
+                            self.calcScore(formats)
+                        for format in positions:
+                            formats[format]['bitmask'] = [item for item in formats[format]['bitmask'] if item['name'] != field]
 
     def generateISA(self):
         self.placeFormatAndOpcode()
-        for field in sorted(self.fields.items(), key=lambda x: -x[1]['priority']):
-            self.placeField(field[0])
+        sorted_fields = sorted(self.fields.items(), key=lambda x: -x[1]['priority'])
+        return self.placeField(sorted_fields[0][0], sorted_fields[1:], self.formats)
 
-    def printISA(self):
+    def printISA(self, formats):
         isa_description = '\n' + '|'.rjust(self.ISA_output_padding)
         ix_padding = int(log10(self.length - 1) + 1)
         for i in range(self.length - 1, -1, -1): isa_description += str(i).ljust(ix_padding) + '|'
         isa_description += '\n'
-        for format in self.formats:
-            format_description = 'F={}, {}'.format(self.formats[format]['bitmask'][0]['value'], format)\
+        for format in formats:
+            format_description = 'F={}, {}'.format(formats[format]['bitmask'][0]['value'], format)\
                                      .ljust(self.ISA_output_padding - 1) + '|'
             last_lsb = self.length
-            for field in self.formats[format]['bitmask']:
+            for field in formats[format]['bitmask']:
                 if last_lsb - field['msb'] - 1: format_description += ''.rjust((last_lsb - field['msb'] - 1)*(ix_padding+1) - 1) + '|'
-                name = field['name'][:(field['msb'] - field['lsb'])*(ix_padding+1) - 1]
-                format_description += name.ljust((field['msb'] - field['lsb'])*(ix_padding+1) - 1) + '|'
+                name = field['name'][:(field['msb'] - field['lsb'] + 1)*(ix_padding+1) - 1]
+                format_description += name.ljust((field['msb'] - field['lsb'] + 1)*(ix_padding+1) - 1) + '|'
                 last_lsb = field['lsb']
             isa_description += format_description + '\n'
         isa_description = 'generated ISA\n' + isa_description
@@ -169,4 +195,4 @@ class ISAGenerator():
 
 isag = ISAGenerator()
 isag.generateISA()
-isag.printISA()
+# isag.printISA()
