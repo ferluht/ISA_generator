@@ -1,0 +1,1531 @@
+2018-04-19 12:55:46,451 - ISAGenerator - INFO - initialization start
+2018-04-19 12:55:46,451 - ISAGenerator - ERROR - [Errno 2] No such file or directory: 'example.json'
+2018-04-19 12:56:56,957 - ISAGenerator - INFO - initialization start
+2018-04-19 12:56:56,957 - ISAGenerator - INFO - initialization complete
+2018-04-19 12:57:17,378 - ISAGenerator - INFO - initialization start
+2018-04-19 12:57:17,394 - ISAGenerator - INFO - initialization complete
+2018-04-19 13:22:43,791 - ISAGenerator - INFO - initialization start
+2018-04-19 13:22:43,791 - ISAGenerator - INFO - parsing length
+2018-04-19 13:22:43,791 - ISAGenerator - INFO - parsing fields
+2018-04-19 13:22:43,791 - ISAGenerator - ERROR - list indices must be integers or slices, not dict
+2018-04-19 13:24:55,209 - ISAGenerator - INFO - initialization start
+2018-04-19 13:24:55,211 - ISAGenerator - INFO - parsing length
+2018-04-19 13:24:55,211 - ISAGenerator - INFO - parsing fields
+2018-04-19 13:24:55,213 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 13:24:55,213 - ISAGenerator - INFO - initialization complete
+2018-04-19 13:30:22,687 - ISAGenerator - INFO - initialization start
+2018-04-19 13:30:22,687 - ISAGenerator - INFO - parsing length
+2018-04-19 13:30:22,687 - ISAGenerator - INFO - parsing fields
+2018-04-19 13:30:22,687 - ISAGenerator - INFO - parsing instructions
+2018-04-19 13:30:22,687 - ISAGenerator - ERROR - list indices must be integers or slices, not dict
+2018-04-19 13:31:16,288 - ISAGenerator - INFO - initialization start
+2018-04-19 13:31:16,303 - ISAGenerator - INFO - parsing length
+2018-04-19 13:31:16,303 - ISAGenerator - INFO - parsing fields
+2018-04-19 13:31:16,303 - ISAGenerator - INFO - parsing instructions
+2018-04-19 13:31:16,303 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 13:31:16,303 - ISAGenerator - INFO - initialization complete
+2018-04-19 21:23:50,065 - ISAGenerator - INFO - initialization start
+2018-04-19 21:23:50,068 - ISAGenerator - INFO - parsing length
+2018-04-19 21:23:50,069 - ISAGenerator - INFO - parsing fields
+2018-04-19 21:23:50,070 - ISAGenerator - INFO - parsing instructions
+2018-04-19 21:23:50,070 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 21:23:50,071 - ISAGenerator - INFO - initialization complete
+2018-04-19 21:23:50,071 - ISAGenerator - INFO - placing format
+2018-04-19 21:23:50,071 - ISAGenerator - INFO - placing format
+2018-04-19 21:24:22,439 - ISAGenerator - INFO - initialization start
+2018-04-19 21:24:22,441 - ISAGenerator - INFO - parsing length
+2018-04-19 21:24:22,441 - ISAGenerator - INFO - parsing fields
+2018-04-19 21:24:22,443 - ISAGenerator - INFO - parsing instructions
+2018-04-19 21:24:22,443 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 21:24:22,443 - ISAGenerator - INFO - initialization complete
+2018-04-19 21:24:22,444 - ISAGenerator - INFO - placing format
+2018-04-19 21:24:22,444 - ISAGenerator - INFO - placing format
+2018-04-19 21:25:07,202 - ISAGenerator - INFO - initialization start
+2018-04-19 21:25:07,202 - ISAGenerator - INFO - parsing length
+2018-04-19 21:25:07,202 - ISAGenerator - INFO - parsing fields
+2018-04-19 21:25:07,202 - ISAGenerator - INFO - parsing instructions
+2018-04-19 21:25:07,202 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 21:25:07,202 - ISAGenerator - INFO - initialization complete
+2018-04-19 21:25:07,202 - ISAGenerator - INFO - placing format
+2018-04-19 21:25:07,202 - ISAGenerator - INFO - placing format
+2018-04-19 21:28:28,190 - ISAGenerator - INFO - initialization start
+2018-04-19 21:28:28,190 - ISAGenerator - INFO - parsing length
+2018-04-19 21:28:28,190 - ISAGenerator - INFO - parsing fields
+2018-04-19 21:28:28,190 - ISAGenerator - INFO - parsing instructions
+2018-04-19 21:28:28,190 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 21:28:28,190 - ISAGenerator - INFO - initialization complete
+2018-04-19 21:28:28,190 - ISAGenerator - INFO - placing format
+2018-04-19 21:28:28,190 - ISAGenerator - INFO - placing format
+2018-04-19 21:30:48,446 - ISAGenerator - INFO - initialization start
+2018-04-19 21:30:48,461 - ISAGenerator - INFO - parsing length
+2018-04-19 21:30:48,461 - ISAGenerator - INFO - parsing fields
+2018-04-19 21:30:48,461 - ISAGenerator - INFO - parsing instructions
+2018-04-19 21:30:48,461 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 21:30:48,461 - ISAGenerator - INFO - initialization complete
+2018-04-19 21:30:48,461 - ISAGenerator - INFO - placing format
+2018-04-19 21:30:48,461 - ISAGenerator - INFO - placing format
+2018-04-19 21:35:08,294 - ISAGenerator - INFO - initialization start
+2018-04-19 21:35:08,294 - ISAGenerator - INFO - parsing length
+2018-04-19 21:35:08,294 - ISAGenerator - INFO - parsing fields
+2018-04-19 21:35:08,294 - ISAGenerator - INFO - parsing instructions
+2018-04-19 21:35:08,294 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 21:35:08,294 - ISAGenerator - INFO - initialization complete
+2018-04-19 21:35:08,294 - ISAGenerator - INFO - placing format
+2018-04-19 21:35:08,294 - ISAGenerator - INFO - placing format
+2018-04-19 22:01:57,213 - ISAGenerator - INFO - initialization start
+2018-04-19 22:01:57,213 - ISAGenerator - INFO - parsing length
+2018-04-19 22:01:57,213 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:01:57,213 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:01:57,213 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:01:57,213 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:01:57,213 - ISAGenerator - INFO - placing format
+2018-04-19 22:02:12,541 - ISAGenerator - INFO - initialization start
+2018-04-19 22:02:12,541 - ISAGenerator - INFO - parsing length
+2018-04-19 22:02:12,541 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:02:12,541 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:02:12,541 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:02:12,541 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:02:12,541 - ISAGenerator - INFO - placing format
+2018-04-19 22:02:34,822 - ISAGenerator - INFO - initialization start
+2018-04-19 22:02:34,822 - ISAGenerator - INFO - parsing length
+2018-04-19 22:02:34,822 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:02:34,822 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:02:34,822 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:02:34,822 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:02:34,822 - ISAGenerator - INFO - placing format
+2018-04-19 22:03:02,997 - ISAGenerator - INFO - initialization start
+2018-04-19 22:03:03,000 - ISAGenerator - INFO - parsing length
+2018-04-19 22:03:03,000 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:03:03,003 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:03:03,003 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:03:03,003 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:03:03,004 - ISAGenerator - INFO - placing format
+2018-04-19 22:03:16,511 - ISAGenerator - INFO - initialization start
+2018-04-19 22:03:16,511 - ISAGenerator - INFO - parsing length
+2018-04-19 22:03:16,511 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:03:16,511 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:03:16,511 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:03:16,511 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:03:16,511 - ISAGenerator - INFO - placing format
+2018-04-19 22:03:33,693 - ISAGenerator - INFO - initialization start
+2018-04-19 22:03:33,693 - ISAGenerator - INFO - parsing length
+2018-04-19 22:03:33,693 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:03:33,693 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:03:33,693 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:03:33,693 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:03:33,693 - ISAGenerator - INFO - placing format
+2018-04-19 22:04:29,696 - ISAGenerator - INFO - initialization start
+2018-04-19 22:04:29,696 - ISAGenerator - INFO - parsing length
+2018-04-19 22:04:29,696 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:04:29,696 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:04:29,696 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:04:29,696 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:04:29,696 - ISAGenerator - INFO - placing format
+2018-04-19 22:08:20,357 - ISAGenerator - INFO - initialization start
+2018-04-19 22:08:20,357 - ISAGenerator - INFO - parsing length
+2018-04-19 22:08:20,357 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:08:20,357 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:08:20,357 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:08:20,357 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:08:20,357 - ISAGenerator - INFO - placing format
+2018-04-19 22:09:35,650 - ISAGenerator - INFO - initialization start
+2018-04-19 22:09:35,650 - ISAGenerator - INFO - parsing length
+2018-04-19 22:09:35,650 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:09:35,650 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:09:35,650 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:09:35,650 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:09:35,650 - ISAGenerator - INFO - placing format
+2018-04-19 22:18:52,575 - ISAGenerator - INFO - initialization start
+2018-04-19 22:18:52,575 - ISAGenerator - INFO - parsing length
+2018-04-19 22:18:52,575 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:18:52,575 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:18:52,575 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:18:52,575 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:18:52,575 - ISAGenerator - INFO - placing format
+2018-04-19 22:19:02,939 - ISAGenerator - INFO - initialization start
+2018-04-19 22:19:02,939 - ISAGenerator - INFO - parsing length
+2018-04-19 22:19:02,939 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:19:02,939 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:19:02,939 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:19:02,939 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:19:02,939 - ISAGenerator - INFO - placing format
+2018-04-19 22:19:10,218 - ISAGenerator - INFO - initialization start
+2018-04-19 22:19:10,218 - ISAGenerator - INFO - parsing length
+2018-04-19 22:19:10,218 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:19:10,218 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:19:10,218 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:19:10,218 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:19:10,218 - ISAGenerator - INFO - placing format
+2018-04-19 22:20:30,240 - ISAGenerator - INFO - initialization start
+2018-04-19 22:20:30,240 - ISAGenerator - INFO - parsing length
+2018-04-19 22:20:30,240 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:20:30,256 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:20:30,256 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:20:30,256 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:20:30,256 - ISAGenerator - INFO - placing format
+2018-04-19 22:21:09,551 - ISAGenerator - INFO - initialization start
+2018-04-19 22:21:09,566 - ISAGenerator - INFO - parsing length
+2018-04-19 22:21:09,566 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:21:09,566 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:21:09,566 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:21:09,566 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:21:09,566 - ISAGenerator - INFO - placing format
+2018-04-19 22:21:27,136 - ISAGenerator - INFO - initialization start
+2018-04-19 22:21:27,136 - ISAGenerator - INFO - parsing length
+2018-04-19 22:21:27,136 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:21:27,136 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:21:27,136 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:21:27,136 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:21:27,136 - ISAGenerator - INFO - placing format
+2018-04-19 22:43:48,778 - ISAGenerator - INFO - initialization start
+2018-04-19 22:43:48,778 - ISAGenerator - INFO - parsing length
+2018-04-19 22:43:48,778 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:43:48,778 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:43:48,778 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:43:48,778 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:43:48,778 - ISAGenerator - INFO - placing format
+2018-04-19 22:44:16,495 - ISAGenerator - INFO - initialization start
+2018-04-19 22:44:16,495 - ISAGenerator - INFO - parsing length
+2018-04-19 22:44:16,495 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:44:16,495 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:44:16,495 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:44:16,495 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:44:16,495 - ISAGenerator - INFO - placing format
+2018-04-19 22:44:16,495 - ISAGenerator - INFO - placing field ('R2', {'min': 5, 'max': 5, 'priority': 1})
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - initialization start
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - parsing length
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - placing format
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - placing field ('R2', {'min': 5, 'max': 5, 'priority': 1})
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - placing field ('imm', {'min': 8, 'max': 25, 'priority': 1})
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - placing field ('disp', {'min': 12, 'max': 25, 'priority': 1})
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - placing field ('code', {'min': 3, 'max': 25, 'priority': 1})
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - placing field ('R1', {'min': 5, 'max': 5, 'priority': 2})
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - placing field ('R0', {'min': 5, 'max': 5, 'priority': 3})
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - placing format
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - placing field ('R2', {'min': 5, 'max': 5, 'priority': 1})
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - placing field ('imm', {'min': 8, 'max': 25, 'priority': 1})
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - placing field ('disp', {'min': 12, 'max': 25, 'priority': 1})
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - placing field ('code', {'min': 3, 'max': 25, 'priority': 1})
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - placing field ('R1', {'min': 5, 'max': 5, 'priority': 2})
+2018-04-19 22:44:47,721 - ISAGenerator - INFO - placing field ('R0', {'min': 5, 'max': 5, 'priority': 3})
+2018-04-19 22:45:48,662 - ISAGenerator - INFO - initialization start
+2018-04-19 22:45:48,662 - ISAGenerator - INFO - parsing length
+2018-04-19 22:45:48,662 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:45:48,662 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:45:48,662 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:45:48,662 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:45:48,662 - ISAGenerator - INFO - placing format
+2018-04-19 22:45:48,662 - ISAGenerator - INFO - placing field ('R2', {'min': 5, 'max': 5, 'priority': 1})
+2018-04-19 22:46:22,412 - ISAGenerator - INFO - initialization start
+2018-04-19 22:46:22,412 - ISAGenerator - INFO - parsing length
+2018-04-19 22:46:22,412 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:46:22,412 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:46:22,412 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:46:22,412 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:46:22,412 - ISAGenerator - INFO - placing format
+2018-04-19 22:46:22,412 - ISAGenerator - INFO - placing field ('R2', {'min': 5, 'max': 5, 'priority': 1})
+2018-04-19 22:46:59,304 - ISAGenerator - INFO - initialization start
+2018-04-19 22:46:59,304 - ISAGenerator - INFO - parsing length
+2018-04-19 22:46:59,304 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:46:59,304 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:46:59,304 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:46:59,304 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:46:59,304 - ISAGenerator - INFO - placing format
+2018-04-19 22:46:59,304 - ISAGenerator - INFO - placing field R2
+2018-04-19 22:47:03,142 - ISAGenerator - INFO - placing field imm
+2018-04-19 22:47:03,145 - ISAGenerator - INFO - placing field disp
+2018-04-19 22:47:03,147 - ISAGenerator - INFO - placing field code
+2018-04-19 22:47:03,147 - ISAGenerator - INFO - placing field R1
+2018-04-19 22:47:03,147 - ISAGenerator - INFO - placing field R0
+2018-04-19 22:47:03,147 - ISAGenerator - INFO - placing format
+2018-04-19 22:47:03,147 - ISAGenerator - INFO - placing field R2
+2018-04-19 22:47:03,147 - ISAGenerator - INFO - placing field imm
+2018-04-19 22:47:03,147 - ISAGenerator - INFO - placing field disp
+2018-04-19 22:47:03,147 - ISAGenerator - INFO - placing field code
+2018-04-19 22:47:03,163 - ISAGenerator - INFO - placing field R1
+2018-04-19 22:47:03,163 - ISAGenerator - INFO - placing field R0
+2018-04-19 22:49:30,620 - ISAGenerator - INFO - initialization start
+2018-04-19 22:49:30,620 - ISAGenerator - INFO - parsing length
+2018-04-19 22:49:30,620 - ISAGenerator - INFO - parsing fields
+2018-04-19 22:49:30,620 - ISAGenerator - INFO - parsing instructions
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - initialization complete
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - placing format
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - placing field R2
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - placing field imm
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - placing field disp
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - placing field code
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - placing field R1
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - placing field R0
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - placing format
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - placing field R2
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - placing field imm
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - placing field disp
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - placing field code
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - placing field R1
+2018-04-19 22:49:30,636 - ISAGenerator - INFO - placing field R0
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - initialization start
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - parsing length
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - parsing fields
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - parsing instructions
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - loaded ISA description
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - initialization complete
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - placing format
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - placing field R0
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - placing field R1
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - placing field R2
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - placing field imm
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - placing field disp
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - placing field code
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - placing format
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - placing field R0
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - placing field R1
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - placing field R2
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - placing field imm
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - placing field disp
+2018-04-19 23:13:36,094 - ISAGenerator - INFO - placing field code
+2018-04-23 13:26:40,125 - ISAGenerator - INFO - initialization start
+2018-04-23 13:26:40,125 - ISAGenerator - INFO - initialization start
+2018-04-23 13:26:40,130 - ISAGenerator - INFO - parsing length
+2018-04-23 13:26:40,130 - ISAGenerator - INFO - parsing length
+2018-04-23 13:26:40,131 - ISAGenerator - INFO - parsing fields
+2018-04-23 13:26:40,131 - ISAGenerator - INFO - parsing fields
+2018-04-23 13:26:40,132 - ISAGenerator - INFO - parsing instructions
+2018-04-23 13:26:40,132 - ISAGenerator - INFO - parsing instructions
+2018-04-23 13:26:40,132 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 13:26:40,132 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 13:26:40,133 - ISAGenerator - INFO - initialization complete
+2018-04-23 13:26:40,133 - ISAGenerator - INFO - initialization complete
+2018-04-23 13:26:40,133 - ISAGenerator - INFO - placing format
+2018-04-23 13:26:40,133 - ISAGenerator - INFO - placing format
+2018-04-23 13:26:40,136 - ISAGenerator - INFO - placing field R0
+2018-04-23 13:26:40,138 - ISAGenerator - INFO - placing field R0
+2018-04-23 13:27:40,779 - ISAGenerator - INFO - initialization start
+2018-04-23 13:27:40,779 - ISAGenerator - INFO - parsing length
+2018-04-23 13:27:40,779 - ISAGenerator - INFO - parsing fields
+2018-04-23 13:27:40,779 - ISAGenerator - INFO - parsing instructions
+2018-04-23 13:27:40,779 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 13:27:40,779 - ISAGenerator - INFO - initialization complete
+2018-04-23 13:27:40,779 - ISAGenerator - INFO - placing format
+2018-04-23 13:27:40,779 - ISAGenerator - INFO - placing field R0
+2018-04-23 13:28:36,066 - ISAGenerator - INFO - initialization start
+2018-04-23 13:28:36,066 - ISAGenerator - INFO - parsing length
+2018-04-23 13:28:36,066 - ISAGenerator - INFO - parsing fields
+2018-04-23 13:28:36,066 - ISAGenerator - INFO - parsing instructions
+2018-04-23 13:28:36,066 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 13:28:36,066 - ISAGenerator - INFO - initialization complete
+2018-04-23 13:28:36,066 - ISAGenerator - INFO - placing format
+2018-04-23 13:28:36,066 - ISAGenerator - INFO - placing field R0
+2018-04-23 13:53:02,331 - ISAGenerator - INFO - initialization start
+2018-04-23 13:53:02,333 - ISAGenerator - INFO - parsing length
+2018-04-23 13:53:02,333 - ISAGenerator - INFO - parsing fields
+2018-04-23 13:53:02,335 - ISAGenerator - INFO - parsing instructions
+2018-04-23 13:53:02,335 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 13:53:02,335 - ISAGenerator - INFO - initialization complete
+2018-04-23 13:53:02,336 - ISAGenerator - INFO - placing format
+2018-04-23 13:53:02,338 - ISAGenerator - INFO - placing field R0
+2018-04-23 13:53:18,920 - ISAGenerator - INFO - initialization start
+2018-04-23 13:53:18,922 - ISAGenerator - INFO - parsing length
+2018-04-23 13:53:18,922 - ISAGenerator - INFO - parsing fields
+2018-04-23 13:53:18,924 - ISAGenerator - INFO - parsing instructions
+2018-04-23 13:53:18,924 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 13:53:18,925 - ISAGenerator - INFO - initialization complete
+2018-04-23 13:53:18,925 - ISAGenerator - INFO - placing format
+2018-04-23 13:53:18,931 - ISAGenerator - INFO - placing field R0
+2018-04-23 13:57:00,036 - ISAGenerator - INFO - initialization start
+2018-04-23 13:57:00,038 - ISAGenerator - INFO - parsing length
+2018-04-23 13:57:00,038 - ISAGenerator - INFO - parsing fields
+2018-04-23 13:57:00,040 - ISAGenerator - INFO - parsing instructions
+2018-04-23 13:57:00,040 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 13:57:00,040 - ISAGenerator - INFO - initialization complete
+2018-04-23 13:57:00,041 - ISAGenerator - INFO - placing format
+2018-04-23 13:57:00,043 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:03:53,316 - ISAGenerator - INFO - initialization start
+2018-04-23 14:03:53,318 - ISAGenerator - INFO - parsing length
+2018-04-23 14:03:53,319 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:03:53,320 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:03:53,320 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:03:53,321 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:03:53,321 - ISAGenerator - INFO - placing format
+2018-04-23 14:03:53,325 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:04:24,197 - ISAGenerator - INFO - initialization start
+2018-04-23 14:04:24,200 - ISAGenerator - INFO - parsing length
+2018-04-23 14:04:24,200 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:04:24,202 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:04:24,202 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:04:24,203 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:04:24,203 - ISAGenerator - INFO - placing format
+2018-04-23 14:04:24,206 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:04:46,479 - ISAGenerator - INFO - initialization start
+2018-04-23 14:04:46,481 - ISAGenerator - INFO - parsing length
+2018-04-23 14:04:46,482 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:04:46,483 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:04:46,483 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:04:46,484 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:04:46,484 - ISAGenerator - INFO - placing format
+2018-04-23 14:04:46,487 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:06:02,026 - ISAGenerator - INFO - initialization start
+2018-04-23 14:06:02,027 - ISAGenerator - INFO - parsing length
+2018-04-23 14:06:02,028 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:06:02,029 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:06:02,030 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:06:02,030 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:06:02,030 - ISAGenerator - INFO - placing format
+2018-04-23 14:06:02,033 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:09:12,107 - ISAGenerator - INFO - initialization start
+2018-04-23 14:09:12,109 - ISAGenerator - INFO - parsing length
+2018-04-23 14:09:12,109 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:09:12,111 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:09:12,112 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:09:12,112 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:09:12,112 - ISAGenerator - INFO - placing format
+2018-04-23 14:09:12,115 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:10:14,277 - ISAGenerator - INFO - initialization start
+2018-04-23 14:10:14,281 - ISAGenerator - INFO - parsing length
+2018-04-23 14:10:14,281 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:10:14,284 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:10:14,285 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:10:14,285 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:10:14,285 - ISAGenerator - INFO - placing format
+2018-04-23 14:10:14,289 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:12:06,196 - ISAGenerator - INFO - initialization start
+2018-04-23 14:12:06,198 - ISAGenerator - INFO - parsing length
+2018-04-23 14:12:06,198 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:12:06,200 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:12:06,200 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:12:06,200 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:12:06,201 - ISAGenerator - INFO - placing format
+2018-04-23 14:12:06,203 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:12:49,945 - ISAGenerator - INFO - initialization start
+2018-04-23 14:12:49,947 - ISAGenerator - INFO - parsing length
+2018-04-23 14:12:49,947 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:12:49,949 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:12:49,949 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:12:49,950 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:12:49,950 - ISAGenerator - INFO - placing format
+2018-04-23 14:12:49,954 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:13:24,580 - ISAGenerator - INFO - initialization start
+2018-04-23 14:13:24,582 - ISAGenerator - INFO - parsing length
+2018-04-23 14:13:24,583 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:13:24,584 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:13:24,585 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:13:24,585 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:13:24,585 - ISAGenerator - INFO - placing format
+2018-04-23 14:13:24,590 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:14:29,768 - ISAGenerator - INFO - initialization start
+2018-04-23 14:14:29,769 - ISAGenerator - INFO - parsing length
+2018-04-23 14:14:29,770 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:14:29,771 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:14:29,772 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:14:29,772 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:14:29,772 - ISAGenerator - INFO - placing format
+2018-04-23 14:14:29,775 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:19:49,921 - ISAGenerator - INFO - initialization start
+2018-04-23 14:19:49,921 - ISAGenerator - INFO - parsing length
+2018-04-23 14:19:49,921 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:19:49,921 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:19:49,921 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:19:49,921 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:19:49,921 - ISAGenerator - INFO - placing format
+2018-04-23 14:19:49,921 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:20:05,843 - ISAGenerator - INFO - initialization start
+2018-04-23 14:20:05,843 - ISAGenerator - INFO - parsing length
+2018-04-23 14:20:05,843 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:20:05,843 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:20:05,843 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:20:05,843 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:20:05,843 - ISAGenerator - INFO - placing format
+2018-04-23 14:20:05,843 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:20:50,100 - ISAGenerator - INFO - initialization start
+2018-04-23 14:20:50,115 - ISAGenerator - INFO - parsing length
+2018-04-23 14:20:50,115 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:20:50,115 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:20:50,115 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:20:50,115 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:20:50,115 - ISAGenerator - INFO - placing format
+2018-04-23 14:20:50,115 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:21:09,388 - ISAGenerator - INFO - initialization start
+2018-04-23 14:21:09,388 - ISAGenerator - INFO - parsing length
+2018-04-23 14:21:09,388 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:21:09,388 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:21:09,388 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:21:09,388 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:21:09,388 - ISAGenerator - INFO - placing format
+2018-04-23 14:21:09,404 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:21:43,147 - ISAGenerator - INFO - initialization start
+2018-04-23 14:21:43,147 - ISAGenerator - INFO - parsing length
+2018-04-23 14:21:43,147 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:21:43,147 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:21:43,147 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:21:43,147 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:21:43,147 - ISAGenerator - INFO - placing format
+2018-04-23 14:21:43,147 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:24:06,208 - ISAGenerator - INFO - initialization start
+2018-04-23 14:24:06,208 - ISAGenerator - INFO - parsing length
+2018-04-23 14:24:06,208 - ISAGenerator - INFO - parsing fields
+2018-04-23 14:24:06,208 - ISAGenerator - INFO - parsing instructions
+2018-04-23 14:24:06,208 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 14:24:06,208 - ISAGenerator - INFO - initialization complete
+2018-04-23 14:24:06,208 - ISAGenerator - INFO - placing format
+2018-04-23 14:24:06,208 - ISAGenerator - INFO - placing field R0
+2018-04-23 14:24:06,208 - ISAGenerator - INFO - placing field R1
+2018-04-23 15:04:59,480 - ISAGenerator - INFO - initialization start
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - parsing length
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - parsing fields
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - parsing instructions
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - initialization complete
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - placing format
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - placing field R0
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - placing field R1
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - placing field R2
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - placing field imm
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - placing field disp
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - placing field code
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - placing format
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - placing field R0
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - placing field R1
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - placing field R2
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - placing field imm
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - placing field disp
+2018-04-23 15:04:59,496 - ISAGenerator - INFO - placing field code
+2018-04-23 15:12:06,313 - ISAGenerator - INFO - initialization start
+2018-04-23 15:12:06,313 - ISAGenerator - INFO - parsing length
+2018-04-23 15:12:06,329 - ISAGenerator - INFO - parsing fields
+2018-04-23 15:12:06,329 - ISAGenerator - INFO - parsing instructions
+2018-04-23 15:12:06,329 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 15:12:06,329 - ISAGenerator - INFO - initialization complete
+2018-04-23 15:12:06,329 - ISAGenerator - INFO - placing format
+2018-04-23 15:12:06,329 - ISAGenerator - INFO - placing field R0
+2018-04-23 15:13:14,607 - ISAGenerator - INFO - placing field R1
+2018-04-23 15:14:05,439 - ISAGenerator - INFO - initialization start
+2018-04-23 15:14:05,442 - ISAGenerator - INFO - parsing length
+2018-04-23 15:14:05,442 - ISAGenerator - INFO - parsing fields
+2018-04-23 15:14:05,444 - ISAGenerator - INFO - parsing instructions
+2018-04-23 15:14:05,444 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 15:14:05,444 - ISAGenerator - INFO - initialization complete
+2018-04-23 15:14:05,444 - ISAGenerator - INFO - placing format
+2018-04-23 15:14:05,444 - ISAGenerator - INFO - placing field R0
+2018-04-23 15:14:12,992 - ISAGenerator - INFO - placing field R1
+2018-04-23 15:14:12,992 - ISAGenerator - INFO - placing field R2
+2018-04-23 15:14:12,992 - ISAGenerator - INFO - placing field imm
+2018-04-23 15:14:12,992 - ISAGenerator - INFO - placing field disp
+2018-04-23 15:14:12,992 - ISAGenerator - INFO - placing field code
+2018-04-23 15:14:12,992 - ISAGenerator - INFO - placing format
+2018-04-23 15:14:12,992 - ISAGenerator - INFO - placing field R0
+2018-04-23 15:14:12,992 - ISAGenerator - INFO - placing field R1
+2018-04-23 15:14:12,992 - ISAGenerator - INFO - placing field R2
+2018-04-23 15:14:12,992 - ISAGenerator - INFO - placing field imm
+2018-04-23 15:14:12,992 - ISAGenerator - INFO - placing field disp
+2018-04-23 15:14:12,992 - ISAGenerator - INFO - placing field code
+2018-04-23 15:15:18,813 - ISAGenerator - INFO - initialization start
+2018-04-23 15:15:18,813 - ISAGenerator - INFO - parsing length
+2018-04-23 15:15:18,813 - ISAGenerator - INFO - parsing fields
+2018-04-23 15:15:18,813 - ISAGenerator - INFO - parsing instructions
+2018-04-23 15:15:18,813 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 15:15:18,813 - ISAGenerator - INFO - initialization complete
+2018-04-23 15:15:18,813 - ISAGenerator - INFO - placing format
+2018-04-23 15:15:18,813 - ISAGenerator - INFO - placing field R0
+2018-04-23 15:15:59,715 - ISAGenerator - INFO - placing field R1
+2018-04-23 15:16:42,142 - ISAGenerator - INFO - initialization start
+2018-04-23 15:16:42,158 - ISAGenerator - INFO - parsing length
+2018-04-23 15:16:42,158 - ISAGenerator - INFO - parsing fields
+2018-04-23 15:16:42,158 - ISAGenerator - INFO - parsing instructions
+2018-04-23 15:16:42,158 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 15:16:42,158 - ISAGenerator - INFO - initialization complete
+2018-04-23 15:16:42,158 - ISAGenerator - INFO - placing format
+2018-04-23 15:16:42,158 - ISAGenerator - INFO - placing field R0
+2018-04-23 15:17:25,057 - ISAGenerator - INFO - initialization start
+2018-04-23 15:17:25,057 - ISAGenerator - INFO - parsing length
+2018-04-23 15:17:25,057 - ISAGenerator - INFO - parsing fields
+2018-04-23 15:17:25,057 - ISAGenerator - INFO - parsing instructions
+2018-04-23 15:17:25,057 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 15:17:25,057 - ISAGenerator - INFO - initialization complete
+2018-04-23 15:17:25,057 - ISAGenerator - INFO - placing format
+2018-04-23 15:17:25,057 - ISAGenerator - INFO - placing field R0
+2018-04-23 15:17:57,287 - ISAGenerator - INFO - initialization start
+2018-04-23 15:17:57,287 - ISAGenerator - INFO - parsing length
+2018-04-23 15:17:57,287 - ISAGenerator - INFO - parsing fields
+2018-04-23 15:17:57,287 - ISAGenerator - INFO - parsing instructions
+2018-04-23 15:17:57,287 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 15:17:57,287 - ISAGenerator - INFO - initialization complete
+2018-04-23 15:17:57,287 - ISAGenerator - INFO - placing format
+2018-04-23 15:17:57,287 - ISAGenerator - INFO - placing field R0
+2018-04-23 15:18:04,563 - ISAGenerator - INFO - placing field R1
+2018-04-23 15:18:14,694 - ISAGenerator - INFO - placing field R2
+2018-04-23 15:18:20,426 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:27:48,719 - ISAGenerator - INFO - initialization start
+2018-04-23 22:27:48,719 - ISAGenerator - INFO - parsing length
+2018-04-23 22:27:48,719 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:27:48,719 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:27:48,719 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:27:48,719 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:27:48,719 - ISAGenerator - INFO - placing format
+2018-04-23 22:27:48,735 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:27:59,853 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:28:11,796 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:28:18,992 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:28:32,518 - ISAGenerator - INFO - initialization start
+2018-04-23 22:28:32,518 - ISAGenerator - INFO - parsing length
+2018-04-23 22:28:32,518 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:28:32,518 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:28:32,518 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:28:32,518 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:28:32,518 - ISAGenerator - INFO - placing format
+2018-04-23 22:28:32,518 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:28:38,524 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:28:39,408 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:28:49,300 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:37:21,235 - ISAGenerator - INFO - initialization start
+2018-04-23 22:37:21,235 - ISAGenerator - INFO - parsing length
+2018-04-23 22:37:21,235 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:37:21,253 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:37:21,253 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:37:21,254 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:37:21,255 - ISAGenerator - INFO - placing format
+2018-04-23 22:37:21,257 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:37:29,720 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:37:30,455 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:37:31,585 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:41:09,609 - ISAGenerator - INFO - initialization start
+2018-04-23 22:41:09,609 - ISAGenerator - INFO - parsing length
+2018-04-23 22:41:09,609 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:41:09,609 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:41:09,609 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:41:09,609 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:41:09,609 - ISAGenerator - INFO - placing format
+2018-04-23 22:41:09,609 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:41:13,102 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:41:16,121 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:41:20,725 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:41:44,286 - ISAGenerator - INFO - initialization start
+2018-04-23 22:41:44,286 - ISAGenerator - INFO - parsing length
+2018-04-23 22:41:44,286 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:41:44,286 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:41:44,286 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:41:44,286 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:41:44,286 - ISAGenerator - INFO - placing format
+2018-04-23 22:41:44,286 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:42:01,229 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:42:02,082 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:42:08,548 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:42:42,428 - ISAGenerator - INFO - initialization start
+2018-04-23 22:42:42,428 - ISAGenerator - INFO - parsing length
+2018-04-23 22:42:42,428 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:42:42,428 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:42:42,428 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:42:42,428 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:42:42,428 - ISAGenerator - INFO - placing format
+2018-04-23 22:42:42,428 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:42:44,170 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:42:45,688 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:42:46,372 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:43:36,904 - ISAGenerator - INFO - initialization start
+2018-04-23 22:43:36,904 - ISAGenerator - INFO - parsing length
+2018-04-23 22:43:36,904 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:43:36,904 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:43:36,904 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:43:36,904 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:43:36,904 - ISAGenerator - INFO - placing format
+2018-04-23 22:43:36,904 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:43:40,612 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:43:41,530 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:43:41,930 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:44:37,630 - ISAGenerator - INFO - initialization start
+2018-04-23 22:44:37,633 - ISAGenerator - INFO - parsing length
+2018-04-23 22:44:37,633 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:44:37,635 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:44:37,635 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:44:37,636 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:44:37,636 - ISAGenerator - INFO - placing format
+2018-04-23 22:44:37,636 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:44:38,900 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:44:39,754 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:44:40,254 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:45:50,477 - ISAGenerator - INFO - initialization start
+2018-04-23 22:45:50,493 - ISAGenerator - INFO - parsing length
+2018-04-23 22:45:50,493 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:45:50,493 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:45:50,493 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:45:50,493 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:45:50,493 - ISAGenerator - INFO - placing format
+2018-04-23 22:45:50,493 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:45:51,879 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:45:52,594 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:45:53,044 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:45:53,649 - ISAGenerator - INFO - placing field disp
+2018-04-23 22:45:54,427 - ISAGenerator - INFO - placing field code
+2018-04-23 22:45:55,544 - ISAGenerator - INFO - placing format
+2018-04-23 22:45:55,547 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:45:59,903 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:46:00,503 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:46:00,972 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:46:01,639 - ISAGenerator - INFO - placing field disp
+2018-04-23 22:46:02,136 - ISAGenerator - INFO - placing field code
+2018-04-23 22:47:25,240 - ISAGenerator - INFO - initialization start
+2018-04-23 22:47:25,255 - ISAGenerator - INFO - parsing length
+2018-04-23 22:47:25,255 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:47:25,255 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:47:25,255 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:47:25,255 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:47:25,255 - ISAGenerator - INFO - placing format
+2018-04-23 22:47:25,255 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:47:27,757 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:47:27,757 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:47:27,757 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:47:39,971 - ISAGenerator - INFO - initialization start
+2018-04-23 22:47:39,989 - ISAGenerator - INFO - parsing length
+2018-04-23 22:47:39,989 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:47:39,990 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:47:39,991 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:47:39,991 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:47:39,991 - ISAGenerator - INFO - placing format
+2018-04-23 22:47:39,993 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:47:41,310 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:47:42,378 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:47:42,897 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:48:13,876 - ISAGenerator - INFO - initialization start
+2018-04-23 22:48:13,876 - ISAGenerator - INFO - parsing length
+2018-04-23 22:48:13,876 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:48:13,876 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:48:13,876 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:48:13,876 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:48:13,876 - ISAGenerator - INFO - placing format
+2018-04-23 22:48:13,876 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:48:13,876 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:48:13,876 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:48:13,876 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:48:13,876 - ISAGenerator - INFO - placing field disp
+2018-04-23 22:48:37,241 - ISAGenerator - INFO - initialization start
+2018-04-23 22:48:37,256 - ISAGenerator - INFO - parsing length
+2018-04-23 22:48:37,256 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:48:37,256 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:48:37,256 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:48:37,256 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:48:37,256 - ISAGenerator - INFO - placing format
+2018-04-23 22:48:37,256 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:48:38,908 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:48:39,408 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:48:39,846 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:50:16,228 - ISAGenerator - INFO - placing field disp
+2018-04-23 22:52:11,656 - ISAGenerator - INFO - initialization start
+2018-04-23 22:52:11,659 - ISAGenerator - INFO - parsing length
+2018-04-23 22:52:11,659 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:52:11,662 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:52:11,663 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:52:11,663 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:52:11,664 - ISAGenerator - INFO - placing format
+2018-04-23 22:52:11,673 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:52:20,229 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:52:21,987 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:52:22,387 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:52:22,903 - ISAGenerator - INFO - placing field disp
+2018-04-23 22:54:10,093 - ISAGenerator - INFO - initialization start
+2018-04-23 22:54:10,108 - ISAGenerator - INFO - parsing length
+2018-04-23 22:54:10,108 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:54:10,108 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:54:10,108 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:54:10,108 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:54:10,108 - ISAGenerator - INFO - placing format
+2018-04-23 22:54:10,108 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:54:13,380 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:54:13,982 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:54:14,751 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:54:15,099 - ISAGenerator - INFO - placing field disp
+2018-04-23 22:54:33,547 - ISAGenerator - INFO - placing field code
+2018-04-23 22:54:35,395 - ISAGenerator - INFO - placing format
+2018-04-23 22:54:35,395 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:54:35,395 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:54:35,395 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:54:35,410 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:54:35,410 - ISAGenerator - INFO - placing field disp
+2018-04-23 22:54:35,410 - ISAGenerator - INFO - placing field code
+2018-04-23 22:59:28,238 - ISAGenerator - INFO - initialization start
+2018-04-23 22:59:28,238 - ISAGenerator - INFO - parsing length
+2018-04-23 22:59:28,238 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:59:28,238 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:59:28,238 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:59:28,238 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:59:28,253 - ISAGenerator - INFO - placing format
+2018-04-23 22:59:28,253 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:59:28,253 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:59:28,253 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:59:28,253 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:59:28,253 - ISAGenerator - INFO - placing field disp
+2018-04-23 22:59:28,253 - ISAGenerator - INFO - placing field code
+2018-04-23 22:59:28,253 - ISAGenerator - INFO - placing format
+2018-04-23 22:59:28,253 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:59:28,253 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:59:28,253 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:59:28,253 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:59:28,253 - ISAGenerator - INFO - placing field disp
+2018-04-23 22:59:28,253 - ISAGenerator - INFO - placing field code
+2018-04-23 22:59:32,614 - ISAGenerator - INFO - initialization start
+2018-04-23 22:59:32,614 - ISAGenerator - INFO - parsing length
+2018-04-23 22:59:32,614 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:59:32,614 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:59:32,614 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:59:32,614 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:59:32,614 - ISAGenerator - INFO - placing format
+2018-04-23 22:59:32,614 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:59:32,614 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:59:32,629 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:59:32,629 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:59:32,629 - ISAGenerator - INFO - placing field disp
+2018-04-23 22:59:32,631 - ISAGenerator - INFO - placing field code
+2018-04-23 22:59:32,631 - ISAGenerator - INFO - placing format
+2018-04-23 22:59:32,631 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:59:32,632 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:59:32,632 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:59:32,632 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:59:32,632 - ISAGenerator - INFO - placing field disp
+2018-04-23 22:59:32,632 - ISAGenerator - INFO - placing field code
+2018-04-23 22:59:38,472 - ISAGenerator - INFO - initialization start
+2018-04-23 22:59:38,489 - ISAGenerator - INFO - parsing length
+2018-04-23 22:59:38,489 - ISAGenerator - INFO - parsing fields
+2018-04-23 22:59:38,491 - ISAGenerator - INFO - parsing instructions
+2018-04-23 22:59:38,491 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 22:59:38,492 - ISAGenerator - INFO - initialization complete
+2018-04-23 22:59:38,492 - ISAGenerator - INFO - placing format
+2018-04-23 22:59:38,494 - ISAGenerator - INFO - placing field R0
+2018-04-23 22:59:40,026 - ISAGenerator - INFO - placing field R1
+2018-04-23 22:59:40,341 - ISAGenerator - INFO - placing field R2
+2018-04-23 22:59:40,711 - ISAGenerator - INFO - placing field imm
+2018-04-23 22:59:41,110 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:00:07,383 - ISAGenerator - INFO - placing field code
+2018-04-23 23:06:46,649 - ISAGenerator - INFO - initialization start
+2018-04-23 23:06:46,652 - ISAGenerator - INFO - parsing length
+2018-04-23 23:06:46,652 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:06:46,655 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:06:46,655 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:06:46,656 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:06:46,656 - ISAGenerator - INFO - placing format
+2018-04-23 23:06:46,662 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:06:51,853 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:06:51,853 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:06:51,853 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:06:51,853 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:06:51,853 - ISAGenerator - INFO - placing field code
+2018-04-23 23:06:51,853 - ISAGenerator - INFO - placing format
+2018-04-23 23:06:51,853 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:06:51,853 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:06:51,853 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:06:51,853 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:06:51,853 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:06:51,853 - ISAGenerator - INFO - placing field code
+2018-04-23 23:07:53,338 - ISAGenerator - INFO - initialization start
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - parsing length
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - placing format
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - placing field code
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - placing format
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:07:53,354 - ISAGenerator - INFO - placing field code
+2018-04-23 23:21:29,193 - ISAGenerator - INFO - initialization start
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - parsing length
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - placing format
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - placing field code
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - placing format
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:21:29,209 - ISAGenerator - INFO - placing field code
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - initialization start
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - parsing length
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - placing format
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - placing field code
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - placing format
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:21:52,041 - ISAGenerator - INFO - placing field code
+2018-04-23 23:24:04,309 - ISAGenerator - INFO - initialization start
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - parsing length
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - placing format
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - placing field code
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - placing format
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - placing field code
+2018-04-23 23:24:04,325 - ISAGenerator - INFO - generated ISA
+|F|OPCODE|R0  |R1  |R2  
+|F|OPCODE|R0  |R1  |imm    
+|F|code|R0  |disp       
+
+2018-04-23 23:28:29,582 - ISAGenerator - INFO - initialization start
+2018-04-23 23:28:29,582 - ISAGenerator - INFO - parsing length
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - placing format
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - placing field code
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - placing format
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - placing field code
+2018-04-23 23:28:29,598 - ISAGenerator - INFO - generated ISA
+||F|OPCODE|R0  |R1  |R2  |
+|F|OPCODE|R0  |R1  |imm    |
+|F|code|R0  |disp       |
+
+2018-04-23 23:28:50,230 - ISAGenerator - INFO - initialization start
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - parsing length
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - placing format
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - placing field code
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - placing format
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - placing field code
+2018-04-23 23:28:50,245 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9|8|7|6|5|4|3|2|1|0||F|OPCODE|R0  |R1  |R2  |
+|F|OPCODE|R0  |R1  |imm    |
+|F|code|R0  |disp       |
+
+2018-04-23 23:30:07,292 - ISAGenerator - INFO - initialization start
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - parsing length
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - placing format
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - placing field code
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - placing format
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - placing field code
+2018-04-23 23:30:07,308 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 ||F|OPCODE|R0  |R1  |R2  |
+|F|OPCODE|R0  |R1  |imm    |
+|F|code|R0  |disp       |
+
+2018-04-23 23:30:28,312 - ISAGenerator - INFO - initialization start
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - parsing length
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - placing format
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - placing field code
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - placing format
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - placing field code
+2018-04-23 23:30:28,327 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F|OPCODE|R0  |R1  |R2  |
+|F|OPCODE|R0  |R1  |imm    |
+|F|code|R0  |disp       |
+
+2018-04-23 23:30:54,254 - ISAGenerator - INFO - initialization start
+2018-04-23 23:30:54,254 - ISAGenerator - INFO - parsing length
+2018-04-23 23:30:54,270 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:30:54,273 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:30:54,273 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:30:54,273 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:30:54,274 - ISAGenerator - INFO - placing format
+2018-04-23 23:30:54,274 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:30:54,275 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:30:54,275 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:30:54,276 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:30:54,276 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:30:54,276 - ISAGenerator - INFO - placing field code
+2018-04-23 23:30:54,276 - ISAGenerator - INFO - placing format
+2018-04-23 23:30:54,276 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:30:54,276 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:30:54,276 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:30:54,276 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:30:54,276 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:30:54,276 - ISAGenerator - INFO - placing field code
+2018-04-23 23:30:54,276 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F |OPCODE|R0      |R1      |R2      |
+|F |OPCODE|R0      |R1      |imm           |
+|F |code|R0      |disp                  |
+
+2018-04-23 23:31:58,920 - ISAGenerator - INFO - initialization start
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - parsing length
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - placing format
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - placing field code
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - placing format
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - placing field code
+2018-04-23 23:31:58,936 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F |OPCODE|R0      |R1      |R2      |
+|F |OPCODE|R0      |R1      |imm           |
+|F |code|R0      |disp                  |
+
+2018-04-23 23:32:50,707 - ISAGenerator - INFO - initialization start
+2018-04-23 23:32:50,723 - ISAGenerator - INFO - parsing length
+2018-04-23 23:32:50,723 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:32:50,725 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:32:50,725 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:32:50,726 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:32:50,726 - ISAGenerator - INFO - placing format
+2018-04-23 23:32:50,727 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:32:50,727 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:32:50,728 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:32:50,728 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:32:50,728 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:32:50,729 - ISAGenerator - INFO - placing field code
+2018-04-23 23:32:50,729 - ISAGenerator - INFO - placing format
+2018-04-23 23:32:50,729 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:32:50,730 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:32:50,730 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:32:50,730 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:32:50,730 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:32:50,730 - ISAGenerator - INFO - placing field code
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - initialization start
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - parsing length
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - placing format
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - placing field code
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - placing format
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:33:40,607 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:33:40,622 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:33:40,622 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:33:40,624 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:33:40,624 - ISAGenerator - INFO - placing field code
+2018-04-23 23:33:40,624 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F |OPCOD |R0      |R1      |R2      |
+|F |OPCOD |R0      |R1      |imm           |
+|F |cod |R0      |disp                  |
+
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - initialization start
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - parsing length
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - placing format
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - placing field code
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - placing format
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - placing field code
+2018-04-23 23:33:58,936 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F|OPCOD|R0     |R1     |R2     |
+|F|OPCOD|R0     |R1     |imm          |
+|F|cod|R0     |disp                 |
+
+2018-04-23 23:34:09,924 - ISAGenerator - INFO - initialization start
+2018-04-23 23:34:09,943 - ISAGenerator - INFO - parsing length
+2018-04-23 23:34:09,943 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - placing format
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - placing field code
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - placing format
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - placing field code
+2018-04-23 23:34:09,946 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F|OPCODE|R0     |R1     |R2     |
+|F|OPCODE|R0     |R1     |imm          |
+|F|code|R0     |disp                 |
+
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - initialization start
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - parsing length
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - placing format
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - placing field code
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - placing format
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - placing field code
+2018-04-23 23:34:32,138 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F |OPCODE|R0      |R1      |R2      |
+|F |OPCODE|R0      |R1      |imm           |
+|F |code|R0      |disp                  |
+
+2018-04-23 23:35:26,004 - ISAGenerator - INFO - initialization start
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - parsing length
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - placing format
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - placing field code
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - placing format
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - placing field code
+2018-04-23 23:35:26,019 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F |OPCODE|R0      |R1      |R2      |
+|F |OPCODE|R0      |R1      |imm           |
+|F |code|R0      |disp                  |
+
+2018-04-23 23:38:25,511 - ISAGenerator - INFO - initialization start
+2018-04-23 23:38:25,527 - ISAGenerator - INFO - parsing length
+2018-04-23 23:38:25,527 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:38:25,527 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:38:25,527 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:38:25,527 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:38:25,527 - ISAGenerator - INFO - placing format
+2018-04-23 23:38:25,527 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:38:25,527 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:38:25,527 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:38:25,527 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:38:25,527 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:38:25,527 - ISAGenerator - INFO - placing field code
+2018-04-23 23:38:25,527 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F |OPCODE  |R0         |R1         |R2         |
+|F |OPCODE  |R0         |R1         |imm                 |
+|F |code |R0         |disp                            |
+
+2018-04-23 23:40:41,318 - ISAGenerator - INFO - initialization start
+2018-04-23 23:40:41,318 - ISAGenerator - INFO - parsing length
+2018-04-23 23:40:41,334 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:40:41,334 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:40:41,334 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:40:41,334 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:40:41,334 - ISAGenerator - INFO - placing format
+2018-04-23 23:40:41,334 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:40:41,334 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:40:41,334 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:40:41,334 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:40:41,334 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:40:41,334 - ISAGenerator - INFO - placing field code
+2018-04-23 23:40:41,334 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F |  OPCODE  |      R0         |           R1         |                R2         |
+|F |  OPCODE  |      R0         |           R1         |                imm                 |
+|F |  code |      R0         |           disp                            |
+
+2018-04-23 23:42:40,319 - ISAGenerator - INFO - initialization start
+2018-04-23 23:42:40,336 - ISAGenerator - INFO - parsing length
+2018-04-23 23:42:40,336 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:42:40,337 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:42:40,338 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:42:40,338 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:42:40,338 - ISAGenerator - INFO - placing format
+2018-04-23 23:42:40,339 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:42:40,339 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:42:40,340 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:42:40,340 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:42:40,340 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:42:40,341 - ISAGenerator - INFO - placing field code
+2018-04-23 23:42:40,341 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+||F || OPCODE  ||     R0         ||          R1         ||               R2         |
+||F || OPCODE  ||     R0         ||          R1         ||               imm                 |
+||F || code ||     R0         ||          disp                            |
+
+2018-04-23 23:42:50,312 - ISAGenerator - INFO - initialization start
+2018-04-23 23:42:50,312 - ISAGenerator - INFO - parsing length
+2018-04-23 23:42:50,312 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:42:50,312 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:42:50,312 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:42:50,312 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:42:50,312 - ISAGenerator - INFO - placing format
+2018-04-23 23:42:50,312 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:42:50,312 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:42:50,312 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:42:50,312 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:42:50,312 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:42:50,312 - ISAGenerator - INFO - placing field code
+2018-04-23 23:43:14,900 - ISAGenerator - INFO - initialization start
+2018-04-23 23:43:14,916 - ISAGenerator - INFO - parsing length
+2018-04-23 23:43:14,916 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:43:14,916 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:43:14,916 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:43:14,916 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:43:14,916 - ISAGenerator - INFO - placing format
+2018-04-23 23:43:14,916 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:43:14,916 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:43:14,916 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:43:14,916 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:43:14,916 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:43:14,916 - ISAGenerator - INFO - placing field code
+2018-04-23 23:43:19,036 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F | |OPCODE  |     |R0         |          |R1         |               |R2         |
+|F | |OPCODE  |     |R0         |          |R1         |               |imm                 |
+|F | |code |     |R0         |          |disp                            |
+
+2018-04-23 23:43:39,604 - ISAGenerator - INFO - initialization start
+2018-04-23 23:43:39,620 - ISAGenerator - INFO - parsing length
+2018-04-23 23:43:39,620 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:43:39,620 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:43:39,620 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:43:39,620 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:43:39,620 - ISAGenerator - INFO - placing format
+2018-04-23 23:43:39,620 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:43:39,620 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:43:39,620 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:43:39,620 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:43:39,620 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:43:39,620 - ISAGenerator - INFO - placing field code
+2018-04-23 23:43:39,620 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F ||OPCODE  ||R0         ||R1         ||R2         |
+|F ||OPCODE  ||R0         ||R1         ||imm                 |
+|F ||code | |R0         ||disp                            |
+
+2018-04-23 23:43:57,475 - ISAGenerator - INFO - initialization start
+2018-04-23 23:43:57,475 - ISAGenerator - INFO - parsing length
+2018-04-23 23:43:57,475 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:43:57,475 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:43:57,475 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:43:57,490 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:43:57,490 - ISAGenerator - INFO - placing format
+2018-04-23 23:43:57,490 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:43:57,490 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:43:57,490 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:43:57,490 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:43:57,490 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:43:57,490 - ISAGenerator - INFO - placing field code
+2018-04-23 23:43:57,490 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F |OPCODE  |R0         |R1         |R2         |
+|F |OPCODE  |R0         |R1         |imm                 |
+|F |code ||R0         |disp                            |
+
+2018-04-23 23:44:15,477 - ISAGenerator - INFO - initialization start
+2018-04-23 23:44:15,493 - ISAGenerator - INFO - parsing length
+2018-04-23 23:44:15,493 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:44:15,493 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:44:15,493 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:44:15,493 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:44:15,493 - ISAGenerator - INFO - placing format
+2018-04-23 23:44:15,493 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:44:15,493 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:44:15,493 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:44:15,493 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:44:15,493 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:44:15,493 - ISAGenerator - INFO - placing field code
+2018-04-23 23:46:13,046 - ISAGenerator - INFO - initialization start
+2018-04-23 23:46:13,046 - ISAGenerator - INFO - parsing length
+2018-04-23 23:46:13,046 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:46:13,046 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:46:13,046 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:46:13,046 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:46:13,046 - ISAGenerator - INFO - placing format
+2018-04-23 23:46:13,046 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:46:13,046 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:46:13,046 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:46:13,046 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:46:13,046 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:46:13,046 - ISAGenerator - INFO - placing field code
+2018-04-23 23:46:14,932 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F |OPCODE  |R0         |R1         |R2         |
+|F |OPCODE  |R0         |R1         |imm                 |
+|F |code | |R0         |disp                            |
+
+2018-04-23 23:46:41,527 - ISAGenerator - INFO - initialization start
+2018-04-23 23:46:41,527 - ISAGenerator - INFO - parsing length
+2018-04-23 23:46:41,527 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:46:41,527 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:46:41,527 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:46:41,527 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:46:41,527 - ISAGenerator - INFO - placing format
+2018-04-23 23:46:41,527 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:46:41,527 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:46:41,527 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:46:41,527 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:46:41,527 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:46:41,527 - ISAGenerator - INFO - placing field code
+2018-04-23 23:46:41,543 - ISAGenerator - INFO - generated ISA
+|24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F |OPCODE  |R0         |R1         |R2         |
+|F |OPCODE  |R0         |R1         |imm                 |
+|F |code |  |R0         |disp                            |
+
+2018-04-23 23:51:19,757 - ISAGenerator - INFO - initialization start
+2018-04-23 23:51:19,773 - ISAGenerator - INFO - parsing length
+2018-04-23 23:51:19,773 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:51:19,773 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:51:19,773 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:51:19,773 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:51:19,773 - ISAGenerator - INFO - placing format
+2018-04-23 23:51:19,773 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:51:19,773 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:51:19,773 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:51:19,773 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:51:19,773 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:51:19,773 - ISAGenerator - INFO - placing field code
+2018-04-23 23:51:19,773 - ISAGenerator - INFO - generated ISA
+
+                                                 |24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+|F |OPCODE  |R0         |R1         |R2         |
+|F |OPCODE  |R0         |R1         |imm                 |
+|F |code |  |R0         |disp                            |
+
+2018-04-23 23:52:09,323 - ISAGenerator - INFO - initialization start
+2018-04-23 23:52:09,338 - ISAGenerator - INFO - parsing length
+2018-04-23 23:52:09,338 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:52:09,338 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:52:09,338 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:52:09,338 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:52:09,338 - ISAGenerator - INFO - placing format
+2018-04-23 23:52:09,338 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:52:09,338 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:52:09,338 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:52:09,338 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:52:09,338 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:52:09,338 - ISAGenerator - INFO - placing field code
+2018-04-23 23:52:09,338 - ISAGenerator - INFO - generated ISA
+
+                                                 |24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+alu_instructions                                                                                  |F |OPCODE  |R0         |R1         |R2         |
+memory_access                                                                                     |F |OPCODE  |R0         |R1         |imm                 |
+branch                                                                                            |F |code |  |R0         |disp                            |
+
+2018-04-23 23:52:25,628 - ISAGenerator - INFO - initialization start
+2018-04-23 23:52:25,628 - ISAGenerator - INFO - parsing length
+2018-04-23 23:52:25,628 - ISAGenerator - INFO - parsing fields
+2018-04-23 23:52:25,643 - ISAGenerator - INFO - parsing instructions
+2018-04-23 23:52:25,643 - ISAGenerator - INFO - loaded ISA description
+2018-04-23 23:52:25,643 - ISAGenerator - INFO - initialization complete
+2018-04-23 23:52:25,643 - ISAGenerator - INFO - placing format
+2018-04-23 23:52:25,648 - ISAGenerator - INFO - placing field R0
+2018-04-23 23:52:25,649 - ISAGenerator - INFO - placing field R1
+2018-04-23 23:52:25,650 - ISAGenerator - INFO - placing field R2
+2018-04-23 23:52:25,650 - ISAGenerator - INFO - placing field imm
+2018-04-23 23:52:25,651 - ISAGenerator - INFO - placing field disp
+2018-04-23 23:52:25,651 - ISAGenerator - INFO - placing field code
+2018-04-23 23:52:25,651 - ISAGenerator - INFO - generated ISA
+
+                                                 |24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+alu_instructions                                 |F |OPCODE  |R0         |R1         |R2         |
+memory_access                                    |F |OPCODE  |R0         |R1         |imm                 |
+branch                                           |F |code |  |R0         |disp                            |
+
+2018-04-24 00:01:06,908 - ISAGenerator - INFO - initialization start
+2018-04-24 00:01:06,908 - ISAGenerator - INFO - parsing length
+2018-04-24 00:01:06,908 - ISAGenerator - INFO - parsing fields
+2018-04-24 00:01:06,908 - ISAGenerator - INFO - parsing instructions
+2018-04-24 00:01:06,908 - ISAGenerator - INFO - loaded ISA description
+2018-04-24 00:01:06,908 - ISAGenerator - INFO - initialization complete
+2018-04-24 00:01:06,908 - ISAGenerator - INFO - placing format
+2018-04-24 00:01:06,908 - ISAGenerator - INFO - placing field R0
+2018-04-24 00:01:06,908 - ISAGenerator - INFO - placing field R1
+2018-04-24 00:01:06,908 - ISAGenerator - INFO - placing field R2
+2018-04-24 00:01:06,908 - ISAGenerator - INFO - placing field imm
+2018-04-24 00:01:06,924 - ISAGenerator - INFO - placing field disp
+2018-04-24 00:01:06,924 - ISAGenerator - INFO - placing field code
+2018-04-24 00:01:34,527 - ISAGenerator - INFO - initialization start
+2018-04-24 00:01:34,543 - ISAGenerator - INFO - parsing length
+2018-04-24 00:01:34,543 - ISAGenerator - INFO - parsing fields
+2018-04-24 00:01:34,543 - ISAGenerator - INFO - parsing instructions
+2018-04-24 00:01:34,543 - ISAGenerator - INFO - loaded ISA description
+2018-04-24 00:01:34,543 - ISAGenerator - INFO - initialization complete
+2018-04-24 00:01:34,543 - ISAGenerator - INFO - placing format
+2018-04-24 00:01:34,543 - ISAGenerator - INFO - placing field R0
+2018-04-24 00:01:34,543 - ISAGenerator - INFO - placing field R1
+2018-04-24 00:01:34,543 - ISAGenerator - INFO - placing field R2
+2018-04-24 00:01:34,543 - ISAGenerator - INFO - placing field imm
+2018-04-24 00:01:34,543 - ISAGenerator - INFO - placing field disp
+2018-04-24 00:01:34,543 - ISAGenerator - INFO - placing field code
+2018-04-24 00:01:41,397 - ISAGenerator - INFO - initialization start
+2018-04-24 00:01:41,412 - ISAGenerator - INFO - parsing length
+2018-04-24 00:01:41,412 - ISAGenerator - INFO - parsing fields
+2018-04-24 00:01:41,412 - ISAGenerator - INFO - parsing instructions
+2018-04-24 00:01:41,412 - ISAGenerator - INFO - loaded ISA description
+2018-04-24 00:01:41,412 - ISAGenerator - INFO - initialization complete
+2018-04-24 00:01:41,412 - ISAGenerator - INFO - placing format
+2018-04-24 00:01:41,412 - ISAGenerator - INFO - placing field R0
+2018-04-24 00:01:41,412 - ISAGenerator - INFO - placing field R1
+2018-04-24 00:01:41,412 - ISAGenerator - INFO - placing field R2
+2018-04-24 00:01:41,412 - ISAGenerator - INFO - placing field imm
+2018-04-24 00:01:41,412 - ISAGenerator - INFO - placing field disp
+2018-04-24 00:01:41,412 - ISAGenerator - INFO - placing field code
+2018-04-24 00:01:41,412 - ISAGenerator - INFO - generated ISA
+
+                                                 |24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+alu_instructions F=0                             |F |OPCODE  |R0         |R1         |R2         |
+memory_access F=0                                |F |OPCODE  |R0         |R1         |imm                 |
+branch F=1                                       |F |code |  |R0         |disp                            |
+
+2018-04-24 00:02:37,620 - ISAGenerator - INFO - initialization start
+2018-04-24 00:02:37,636 - ISAGenerator - INFO - parsing length
+2018-04-24 00:02:37,636 - ISAGenerator - INFO - parsing fields
+2018-04-24 00:02:37,638 - ISAGenerator - INFO - parsing instructions
+2018-04-24 00:02:37,638 - ISAGenerator - INFO - loaded ISA description
+2018-04-24 00:02:37,639 - ISAGenerator - INFO - initialization complete
+2018-04-24 00:02:37,639 - ISAGenerator - INFO - placing format
+2018-04-24 00:02:37,639 - ISAGenerator - INFO - placing field R0
+2018-04-24 00:02:37,640 - ISAGenerator - INFO - placing field R1
+2018-04-24 00:02:37,640 - ISAGenerator - INFO - placing field R2
+2018-04-24 00:02:37,641 - ISAGenerator - INFO - placing field imm
+2018-04-24 00:02:37,641 - ISAGenerator - INFO - placing field disp
+2018-04-24 00:02:37,641 - ISAGenerator - INFO - placing field code
+2018-04-24 00:02:37,642 - ISAGenerator - INFO - generated ISA
+
+                                                 |24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+alu_instructions F=00                            |F |OPCODE  |R0         |R1         |R2         |
+memory_access F=01                               |F |OPCODE  |R0         |R1         |imm                 |
+branch F=10                                      |F |code |  |R0         |disp                            |
+
+2018-04-24 00:03:32,064 - ISAGenerator - INFO - initialization start
+2018-04-24 00:03:32,064 - ISAGenerator - INFO - parsing length
+2018-04-24 00:03:32,064 - ISAGenerator - INFO - parsing fields
+2018-04-24 00:03:32,064 - ISAGenerator - INFO - parsing instructions
+2018-04-24 00:03:32,064 - ISAGenerator - INFO - loaded ISA description
+2018-04-24 00:03:32,064 - ISAGenerator - INFO - initialization complete
+2018-04-24 00:03:32,064 - ISAGenerator - INFO - placing format
+2018-04-24 00:03:32,064 - ISAGenerator - INFO - placing field R0
+2018-04-24 00:03:32,064 - ISAGenerator - INFO - placing field R1
+2018-04-24 00:03:32,064 - ISAGenerator - INFO - placing field R2
+2018-04-24 00:03:32,064 - ISAGenerator - INFO - placing field imm
+2018-04-24 00:03:32,064 - ISAGenerator - INFO - placing field disp
+2018-04-24 00:03:32,064 - ISAGenerator - INFO - placing field code
+2018-04-24 00:03:32,064 - ISAGenerator - INFO - generated ISA
+
+                                                 |24|23|22|21|20|19|18|17|16|15|14|13|12|11|10|9 |8 |7 |6 |5 |4 |3 |2 |1 |0 |
+F=00, alu_instructions                           |F |OPCODE  |R0         |R1         |R2         |
+F=01, memory_access                              |F |OPCODE  |R0         |R1         |imm                 |
+F=10, branch                                     |F |code |  |R0         |disp                            |
+
